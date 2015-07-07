@@ -1,0 +1,40 @@
+# Contents of this file inpsired by:
+# http://answers.unity3d.com/questions/369755/unity-on-github.html
+
+##############
+# Config files
+
+
+############
+# Misc files
+
+.DS_Store
+*.swp
+Assets/Editor/mod_pbxproj.pyc
+Assets/Editor/mod_pbxproj.pyc.meta
+
+############
+# Xcode
+
+*.backup.pbxproj
+/iOS
+
+############
+# Android
+/Android
+*.apk
+
+#####################
+# Unity-related files
+
+*.sln
+*.sln.meta
+*.userprefs
+*.userprefs.meta
+*.csproj
+*.pidb
+*.unityproj
+/Library
+/obj
+/Temp
+build.log
